@@ -36,7 +36,19 @@
 </details>
 
 <details>
-  <summary><b>Where to find me</b></summary>
+  <summary><b>Test Artifacts</b></summary>
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qa.rusau@gmail.com)
+<div>
+<a href="https://github.com/ezoenovak/Samples" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/128/2111/2111432.png" title="GitHub" alt="GitHub" width="40" height="40"/>
+</a>
+</div>
 </details>
+
+<details>
+  <summary><b>Where To Find Me</b></summary>
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:e.zoe.novak@gmail.com)
+</details>
+
+
